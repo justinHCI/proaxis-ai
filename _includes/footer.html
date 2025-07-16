@@ -1,0 +1,38 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-content">
+      <div class="footer-col footer-col-1">
+        <h3>{{ site.title }}</h3>
+        <p>{{ site.description | escape }}</p>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <h4>Quick Links</h4>
+        <ul class="footer-nav">
+          {%- for nav_item in site.navigation -%}
+            <li><a href="{{ nav_item.url | relative_url }}">{{ nav_item.title }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <h4>Connect With Us</h4>
+        <ul class="social-media-list">
+          {%- if site.social.linkedin -%}
+            <li><a href="https://linkedin.com/company/{{ site.social.linkedin }}">LinkedIn</a></li>
+          {%- endif -%}
+          {%- if site.social.twitter -%}
+            <li><a href="https://twitter.com/{{ site.social.twitter }}">Twitter</a></li>
+          {%- endif -%}
+          {%- if site.social.github -%}
+            <li><a href="https://github.com/{{ site.social.github }}">GitHub</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

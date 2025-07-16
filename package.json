@@ -1,0 +1,27 @@
+{
+  "name": "proaxis-ai-website",
+  "version": "1.0.0",
+  "description": "Modern Jekyll website for Proaxis AI consulting company",
+  "scripts": {
+    "install": "bundle install",
+    "dev": "bundle exec jekyll serve --livereload",
+    "build": "bundle exec jekyll build",
+    "clean": "bundle exec jekyll clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/proaxis-ai.git"
+  },
+  "keywords": [
+    "jekyll",
+    "website",
+    "conversational-ai",
+    "consulting"
+  ],
+  "author": "Justin Edwards",
+  "license": "MIT",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

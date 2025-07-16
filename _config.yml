@@ -1,0 +1,54 @@
+# Site settings
+title: Proaxis AI
+email: info@proaxis.org
+description: >-
+  Leading conversational AI consulting company founded by PhDs specializing in 
+  research, design, development, and deployment of AI solutions across retail, 
+  entertainment, healthcare, and education sectors.
+baseurl: ""
+url: "https://proaxis.org"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Collections
+collections:
+  team:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Services
+    url: /services/
+  - title: Team
+    url: /team/
+  - title: Contact
+    url: /contact/
+
+# Social links
+social:
+  linkedin: proaxis-ai
+  twitter: proaxisai
+  github: proaxis-ai
