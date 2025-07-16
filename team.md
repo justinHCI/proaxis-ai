@@ -9,7 +9,8 @@ permalink: /team/
 </div>
 
 <div class="team-grid">
-  {% for member in site.team %}
+  {% assign sorted_team = site.team | sort: 'order' %}
+  {% for member in sorted_team %}
   <div class="team-member">
     <div class="member-photo">
       {% if member.photo %}
@@ -21,7 +22,7 @@ permalink: /team/
     <div class="member-info">
       <h3>{{ member.name }}</h3>
       <div class="member-title">{{ member.title }}</div>
-      <div class="member-bio">{{ member.bio }}</div>
+      <div class="member-bio">{{ member.bio | markdownify }}</div>
     </div>
   </div>
   {% endfor %}

@@ -236,6 +236,14 @@ a:hover {
   color: var(--text-light);
   font-size: 4rem;
   border-bottom: 1px solid var(--border-color);
+  overflow: hidden;
+}
+
+.member-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
 .member-info {
@@ -256,6 +264,34 @@ a:hover {
 .member-bio {
   color: var(--text-light);
   line-height: 1.6;
+}
+
+.member-bio ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.member-bio li {
+  margin-bottom: 0.5rem;
+}
+
+.member-bio p {
+  margin-bottom: 0.5rem;
+}
+
+.member-bio a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+.member-bio a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.member-bio strong {
+  color: var(--primary-color);
 }
 
 /* Page styling */
