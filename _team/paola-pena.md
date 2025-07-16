@@ -1,6 +1,10 @@
 ---
 name: Paola Peña
-title: Managing Partner
+title: Senior Research Partner
 photo: 
-bio: Paola Peña is a research scientist in conversational AI with expertise in cross-cultural communication and multilingual voice interfaces and Managing Partner at Proaxis AI. Based at University College Dublin, her research explores how cultural factors influence human interactions with conversational AI systems and how to design AI that is culturally sensitive and inclusive. With a background in linguistics and computational social science, Paola contributes to Proaxis AI's international expansion efforts and ensures that AI solutions are designed to work effectively across diverse cultural contexts and languages.
+order: 8
+bio: |
+  • **Position**: Research Scientist at UCD and Senior Research Partner at Proaxis AI
+  • **Expertise**: Cross-cultural conversational AI, pragmatic cues in dialogue, perspective-taking in human-AI interaction
+  • **Recent Research**: [Beyond the Illusion: LLMs and the Case for Pragmatic Cues in Conversation](https://dl.acm.org/doi/abs/10.1145/3719160.3737614) - CUI 2025
 ---

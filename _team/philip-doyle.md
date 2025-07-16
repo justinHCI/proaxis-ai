@@ -1,6 +1,10 @@
 ---
 name: Philip Doyle, PhD
-title: Managing Partner
+title: Senior Research Partner
 photo: 
-bio: Dr. Philip Doyle is a research scientist specializing in conversational AI and human-computer interaction at University College Dublin and Managing Partner at Proaxis AI. His research focuses on multimodal conversational interfaces, user experience design for voice systems, and the social aspects of human-AI interaction. With expertise in both theoretical foundations and practical applications of conversational AI, Philip contributes to Proaxis AI's research initiatives and helps bridge the gap between academic research and industry applications. His work has contributed to advancing understanding of how people interact with conversational AI systems across different contexts.
+order: 4
+bio: |
+  • **Position**: Research Scientist at UCD and Senior Research Partner at Proaxis AI
+  • **Expertise**: Partner models in human-AI dialogue, multimodal conversational interfaces, IPA interaction design
+  • **Recent Research**: [Cross-cultural Validation of Partner Models for Voice User Interfaces](https://dl.acm.org/doi/abs/10.1145/3640794.3665537) - CUI 2024
 ---

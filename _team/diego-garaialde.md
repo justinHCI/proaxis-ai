@@ -1,6 +1,10 @@
 ---
 name: Diego Garaialde, PhD
-title: Managing Partner
+title: Senior Research Partner
 photo: 
-bio: Dr. Diego Garaialde is a research scientist specializing in multimodal conversational AI and human-robot interaction at University College Dublin and Managing Partner at Proaxis AI. His research focuses on developing more natural and intuitive ways for humans to interact with AI systems through speech, gesture, and other modalities. With expertise in machine learning, natural language processing, and robotics, Diego contributes to Proaxis AI's advanced research initiatives in embodied conversational agents and multimodal interaction design. His work explores how AI systems can better understand and respond to human communication across multiple channels.
+order: 6
+bio: |
+  • **Position**: Research Scientist at UCD and Senior Research Partner at Proaxis AI
+  • **Expertise**: Multimodal conversational interactions, corpus development, behavioral modeling
+  • **Recent Research**: [RoomReader: A Multimodal Corpus of Online Multiparty Conversational Interactions](https://aclanthology.org/2022.lrec-1.268/) - LREC 2022
 ---

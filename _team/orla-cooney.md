@@ -1,6 +1,10 @@
 ---
 name: Orla Cooney
-title: Managing Partner
+title: Senior Research Partner
 photo: 
-bio: Orla Cooney is a research scientist in conversational AI and voice user experience at University College Dublin and Managing Partner at Proaxis AI. Her research focuses on understanding how users perceive and interact with voice interfaces, particularly in the context of trust, anthropomorphism, and social presence in conversational AI systems. With expertise in psychology and human-computer interaction, Orla contributes to Proaxis AI's user research initiatives and helps ensure that AI systems are designed with deep understanding of human cognitive and social processes. Her work bridges the gap between psychological theory and practical AI system design.
+order: 7
+bio: |
+  • **Position**: Research Scientist at UCD and Senior Research Partner at Proaxis AI
+  • **Expertise**: Mental health applications of conversational AI, speech-based interfaces for healthcare
+  • **Recent Research**: [Using Speech Agents for Mood Logging within Blended Mental Healthcare: Mental Healthcare Practitioners' Perspectives](https://dl.acm.org/doi/abs/10.1145/3640794.3665540) - CUI 2024
 ---
