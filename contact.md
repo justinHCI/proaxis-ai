@@ -10,6 +10,7 @@ permalink: /contact/
 
 <div class="contact-form">
   <form name="contact" method="POST" data-netlify="true" action="/thank-you/" netlify-honeypot="bot-field">
+    <input type="hidden" name="form-name" value="contact" />
     <!-- Hidden honeypot field for spam protection -->
     <p style="display: none;">
       <label>Don't fill this out if you're human: <input name="bot-field" /></label>
