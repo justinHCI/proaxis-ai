@@ -1,0 +1,20 @@
+[build]
+  publish = "_site"
+  command = "bundle exec jekyll build"
+
+[build.environment]
+  JEKYLL_ENV = "production"
+
+# Form processing settings
+[[plugins]]
+  package = "netlify-plugin-jekyll-cache"
+
+# Redirect rules for forms
+[[redirects]]
+  from = "/contact-success"
+  to = "/thank-you/"
+  status = 301
+
+# Form detection
+[forms]
+  contact = true

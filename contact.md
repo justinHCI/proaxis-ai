@@ -9,13 +9,13 @@ permalink: /contact/
 </div>
 
 <div class="contact-form">
-  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/" netlify>
+  <form name="contact" method="POST" data-netlify="true" action="/thank-you/">
     <input type="hidden" name="form-name" value="contact" />
     
     <!-- Hidden honeypot field for spam protection -->
-    <div style="display: none;">
+    <p style="display: none;">
       <label>Don't fill this out if you're human: <input name="bot-field" /></label>
-    </div>
+    </p>
     <div class="form-group">
       <label for="name">Name *</label>
       <input type="text" id="name" name="name" required>
