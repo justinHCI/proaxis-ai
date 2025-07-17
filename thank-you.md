@@ -1,0 +1,24 @@
+---
+layout: page
+title: Thank You
+permalink: /thank-you/
+---
+
+<div class="text-center mb-4">
+  <h1>Thank You!</h1>
+  <p class="hero-subtitle">Your message has been successfully sent. We'll get back to you within 24-48 hours.</p>
+</div>
+
+<div class="text-center">
+  <p>We appreciate you reaching out to Proaxis AI. One of our team members will review your inquiry and respond promptly.</p>
+  
+  <div style="margin: 2rem 0;">
+    <a href="/" class="cta-button">Return to Home</a>
+  </div>
+</div>
+
+## What Happens Next?
+
+1. **Screening**: We'll read your inquiry and internally discuss whether there is a good fit.
+2. **Introduction**: One of our partners will schedule a call with you to better get to know the project and your aims, and to let you get to know us.
+3. **Propose a timeline and get to work**: If there is a mutual fit, we'll propose a timeline and workpackage description, then get to work for you!
