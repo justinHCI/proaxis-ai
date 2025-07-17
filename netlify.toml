@@ -4,3 +4,9 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+
+# Form success redirect
+[[redirects]]
+  from = "/thank-you"
+  to = "/thank-you/"
+  status = 301
