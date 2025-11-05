@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <div class="text-center mb-4">
-  <p class="hero-subtitle">Meet the world-class researchers and practitioners behind Proaxis AI. Our team brings together leading experts from University College Dublin's acclaimed HCI research community, combining decades of academic research with practical industry experience in conversational AI.</p>
+  <p class="hero-subtitle">Meet the world-leading researchers and practitioners behind Proaxis AI. Our team brings together leading experts from the academic and industry HCI and UX research communities, combining decades of research experience in conversational AI.</p>
 </div>
 
 <div class="team-grid">

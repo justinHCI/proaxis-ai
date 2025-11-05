@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 <div class="text-center mb-4">
-  <p class="hero-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proaxis AI was founded by leading experts in conversational AI research.</p>
+  <p class="hero-subtitle">Proaxis AI was founded by leading experts in conversational AI research. We believe that designing conversational AI requires a deep undestanding of human communication, technological solutions, and user needs.</p>
 </div>
 
 ## Our Story
 
-Proaxis AI was founded by leading experts in conversational AI research from University College Dublin's renowned HCI research community. With deep roots in academic research and a commitment to translating cutting-edge science into practical solutions, our team brings together decades of experience in human-computer interaction, natural language processing, and conversational system design.
+Proaxis AI was founded by leading experts in conversational AI research with ties to Dublin, Ireland's renowned HCI and UX research community. With deep roots in academic research and a commitment to translating cutting-edge science into practical solutions, our team brings together decades of experience in human-computer interaction, natural language processing, and conversational system design.
 
 Founded in 2025 and incorporated in the United States, Proaxis AI bridges the gap between world-class research and industry applications. Our founders and team members maintain strong ties with University College Dublin, home to one of Europe's largest HCI research groups and the SFI ADAPT Centre for AI-driven content technologies.
 
@@ -25,16 +25,16 @@ Our mission is to advance the field of conversational AI through rigorous resear
 
 ## Our Approach
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+We start from a standpoint of understanding people. From broad understandings of humans as communicators, to culturally specific norms and expectations, to the specific needs of our users, we imbue technology with deep insights into how people talk, write, and think.
 
 ### Research-Driven Solutions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Our research expertise spans user-studies, design science, qunatitative modelling, and situated qualitative analysis. We see research, design, development, and deployment as an iterative cycle and systematic scientific process.
 
 ### Human-Centered Design
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
+The AI systems we design are fundamentally for people. This means both helping peoople accomplish their goals and promoting joy and flourishing in interactions with technology.
 
 ### Scalable Technology
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+Technology solutions confined to a lab or a demo provide limited value for humanity. We have deployed our technological solutions in real, scalable environments including schools, financial institutions, medical environments, commercial products and retail platforms. 

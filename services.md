@@ -5,14 +5,14 @@ permalink: /services/
 ---
 
 <div class="text-center mb-4">
-  <p class="hero-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comprehensive conversational AI solutions from research to deployment.</p>
+  <p class="hero-subtitle">Human-centered conversational AI, backed by decades of research at University College Dublin and deployed in real-world products, services, and institutions.</p>
 </div>
 
 <div class="services-grid">
   <div class="service-card">
     <div class="service-icon">🔬</div>
     <h3>AI Research & Strategy</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. We conduct cutting-edge research to identify the best AI approaches for your specific domain and use case.</p>
+  <p>We draw on peer-reviewed research in dialogue systems, speech technology, and human-computer interaction to map the right strategy for your organisation. From feasibility studies to bespoke research programmes, our team translates academic rigor into pragmatic roadmaps.</p>
     <ul>
       <li>Conversational AI feasibility studies</li>
       <li>Technology landscape analysis</li>
@@ -24,7 +24,7 @@ permalink: /services/
   <div class="service-card">
     <div class="service-icon">🎨</div>
     <h3>Experience Design</h3>
-    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Human-centered design for conversational interfaces that users actually want to engage with.</p>
+  <p>Every interaction begins with people. Our designers and researchers conduct in-depth user studies, cultural audits, and conversation mapping to craft experiences that feel natural, inclusive, and meaningful across languages and contexts.</p>
     <ul>
       <li>Conversation design</li>
       <li>User experience research</li>
@@ -36,7 +36,7 @@ permalink: /services/
   <div class="service-card">
     <div class="service-icon">⚡</div>
     <h3>AI Development</h3>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Custom AI model development and integration tailored to your business needs.</p>
+  <p>We build multi-modal AI systems that combine state-of-the-art language models, speech interfaces, and intelligent tooling. Whether you need bespoke NLP pipelines or an orchestration layer that unifies existing platforms, we engineer solutions ready for scale.</p>
     <ul>
       <li>Natural language processing</li>
       <li>Machine learning model development</li>
@@ -48,7 +48,7 @@ permalink: /services/
   <div class="service-card">
     <div class="service-icon">🚀</div>
     <h3>Deployment & Scaling</h3>
-    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Production-ready deployment with ongoing optimization and support.</p>
+  <p>From cloud deployment to governance frameworks, we ensure your conversational AI remains robust, ethical, and measurable. Our team provides monitoring, optimisation, and on-call support so your assistants continue to learn and deliver value.</p>
     <ul>
       <li>Cloud deployment and infrastructure</li>
       <li>Performance monitoring</li>
@@ -61,24 +61,24 @@ permalink: /services/
 ## Industry Solutions
 
 ### Retail & E-commerce
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Transform your customer experience with intelligent shopping assistants, personalized product recommendations, and automated customer support.
+Guide customers through complex catalogues, provide proactive support, and personalise journeys across channels. Our retail projects blend behavioural insights with adaptive language models to turn browsers into loyal advocates.
 
 ### Entertainment & Media
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Create immersive conversational experiences, interactive storytelling platforms, and engaging character-based interactions.
+Craft immersive narrative companions, interactive story engines, and audience engagement tools. We fuse narrative design with conversational UX to keep fans connected to the characters and worlds they love.
 
 ### Healthcare
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Develop patient support systems, clinical decision support tools, and healthcare information assistants that improve outcomes.
+Deliver trustworthy support for patients, clinicians, and administrators. Our healthcare engagements emphasise clarity, empathy, and regulatory alignment while assisting with triage, education, and ongoing care pathways.
 
 ### Education & Training
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Build intelligent tutoring systems, educational assistants, and adaptive learning platforms.
+Activate adaptive learning experiences that respond to each learner’s needs. From intelligent tutoring systems to cohort analytics, we create conversational tools that help people understand, retain, and apply new knowledge.
 
 ## Why Choose Our Services?
 
-- **PhD-Level Expertise**: Our team consists of researchers with advanced degrees in AI and related fields
-- **Proven Track Record**: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- **End-to-End Solutions**: From research to deployment, we handle every aspect of your AI project
-- **Industry Focus**: Deep understanding of domain-specific challenges and opportunities
-- **Ethical AI**: Committed to responsible AI development and deployment practices
+- **PhD-Level Expertise**: A founding team of internationally recognised researchers in conversational AI, HCI, and UX
+- **Proven Track Record**: Successful deployments across education, retail, finance, and healthcare environments
+- **End-to-End Solutions**: Integrated research, design, development, and scaling under one roof
+- **Industry Focus**: Tailored playbooks for sectors with complex communication and compliance needs
+- **Ethical AI**: Governance frameworks that foreground cultural awareness, fairness, and long-term stewardship
 
 <div class="text-center mb-4">
   <a href="/contact/" class="cta-button">Start Your Project</a>
