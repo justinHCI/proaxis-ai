@@ -4,7 +4,7 @@ title: Managing Partner
 photo: https://justinhci.github.io/educui2024/images/leigh.jpg
 order: 3
 bio: |
-  • **Position**: Senior UX Researcher at Bold Insight
+  • **Geography**: UK, Ireland, global
   
   • **Expertise**: Speech accessibility and inclusive conversational design
   

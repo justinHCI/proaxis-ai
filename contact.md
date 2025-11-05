@@ -19,34 +19,25 @@ permalink: /contact/
       <label for="name">Name *</label>
       <input type="text" id="name" name="name" required>
     </div>
-
     <div class="form-group">
       <label for="email">Email *</label>
       <input type="email" id="email" name="email" required>
     </div>
-
     <div class="form-group">
       <label for="company">Company</label>
       <input type="text" id="company" name="company">
     </div>
-
     <div class="form-group">
       <label for="subject">Subject</label>
       <input type="text" id="subject" name="subject">
     </div>
-
     <div class="form-group">
       <label for="inquiry">Inquiry *</label>
       <textarea id="inquiry" name="inquiry" required placeholder="Tell us about your inquiry and how we can help..."></textarea>
     </div>
-
     <button type="submit" class="submit-button">Send Message</button>
   </form>
 </div>
-
-## Get In Touch
-
-**Email**: [info@proaxis.org](mailto:info@proaxis.org)
 
 
 

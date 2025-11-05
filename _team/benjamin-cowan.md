@@ -4,7 +4,7 @@ title: Managing Partner
 photo: https://justinhci.github.io/educui2024/images/dsc03300-1-436x655.jpg
 order: 2
 bio: |
-  • **Position**: Professor at UCD's School of Information & Communication Studies
+  • **Geography**: Ireland, UK, France, global
   
   • **Expertise**: Psychological methods in HCI for conversational AI
   

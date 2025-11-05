@@ -4,7 +4,7 @@ title: Managing Partner
 photo: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=vDkDKn4AAAAJ&citpid=1
 order: 8
 bio: |
-  • **Position**:  Doctoral Researcher at University College Dublin
+  • **Geography**:  Ireland, UK, Mexico, global
   
   • **Expertise**: Cross-cultural conversational AI
   

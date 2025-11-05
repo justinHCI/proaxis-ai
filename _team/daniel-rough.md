@@ -4,7 +4,7 @@ title: Managing Partner
 photo: https://justinhci.github.io/educui2024/images/daniel.jpg
 order: 5
 bio: |
-  • **Position**: Lecturer at University of Dundee
+  • **Geography**: UK, Ireland, global
   
   • **Expertise**: Conversational AI design tools
   

@@ -4,7 +4,7 @@ title: Managing Partner
 photo: https://web.archive.org/web/20210802215634im_/https://www.hci.ucd.ie/wp-content/uploads/2019/02/doyle-300x300.png
 order: 4
 bio: |
-  • **Position**: Research Scientist at IBM Software
+  • **Geography**: UK, Ireland, US, gloabl
   
   • **Expertise**: Partner models in human-AI dialogue
   
